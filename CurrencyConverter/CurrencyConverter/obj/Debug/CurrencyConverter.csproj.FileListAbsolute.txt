@@ -1,0 +1,10 @@
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter1.exe.config
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter1.exe
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter1.pdb
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.ConverterUI.resources
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter1.Properties.Resources.resources
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter1.exe
+D:\Programming\CIS3325.002-FA18\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter1.pdb
