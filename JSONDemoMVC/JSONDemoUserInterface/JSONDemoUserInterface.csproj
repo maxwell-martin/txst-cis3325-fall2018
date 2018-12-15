@@ -84,7 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JSONDemoBCL.cs\JSONDemoBCL.csproj">
+    <ProjectReference Include="..\JSONDemoBCL\JSONDemoBCL.csproj">
       <Project>{5e905c5b-16d7-490f-b91c-3a5f8bc58177}</Project>
       <Name>JSONDemoBCL</Name>
     </ProjectReference>

@@ -38,3 +38,12 @@ C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDem
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CopyComplete
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.dll
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\bin\Debug\JSONDemoDCL.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\bin\Debug\JSONDemoDCL.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\obj\Debug\JSONDemoDCL.csproj.CoreCompileInputs.cache
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\obj\Debug\JSONDemoDCL.csproj.CopyComplete
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\obj\Debug\JSONDemoDCL.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoDCL\obj\Debug\JSONDemoDCL.pdb

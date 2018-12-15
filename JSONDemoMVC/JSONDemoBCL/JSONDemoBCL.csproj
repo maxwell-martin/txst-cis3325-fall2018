@@ -7,8 +7,8 @@
     <ProjectGuid>{5E905C5B-16D7-490F-B91C-3A5F8BC58177}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JSONDemoBCL.cs</RootNamespace>
-    <AssemblyName>JSONDemoBCL.cs</AssemblyName>
+    <RootNamespace>JSONDemoBCL</RootNamespace>
+    <AssemblyName>JSONDemoBCL</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -52,9 +52,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JSONDemoDCL.cs\JSONDemoDCL.cs.csproj">
+    <ProjectReference Include="..\JSONDemoDCL\JSONDemoDCL.csproj">
       <Project>{14731892-0356-4407-9759-0a9c8fd0b590}</Project>
-      <Name>JSONDemoDCL.cs</Name>
+      <Name>JSONDemoDCL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -70,3 +70,21 @@ C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDem
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.csproj.CopyComplete
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.exe
 C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoUserInterface.exe.config
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoUserInterface.exe
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoUserInterface.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoBCL.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoDCL.dll
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoBCL.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\bin\Debug\JSONDemoDCL.pdb
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.csprojAssemblyReference.cache
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.FrmCitiesByCountry.resources
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.Properties.Resources.resources
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.csproj.GenerateResource.cache
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.csproj.CoreCompileInputs.cache
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.csproj.CopyComplete
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.exe
+D:\Programming\Portfolio\Made_in_College\CIS_3325.002\JSONDemoMVC\JSONDemoUserInterface\obj\Debug\JSONDemoUserInterface.pdb
