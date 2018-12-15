@@ -1,0 +1,48 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.xml
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoBCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoBCL.cs\obj\Debug\JSONDemoBCL.pdb

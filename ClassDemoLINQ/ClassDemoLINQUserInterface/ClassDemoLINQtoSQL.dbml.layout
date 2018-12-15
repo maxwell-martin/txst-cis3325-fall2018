@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ClassDemoLINQtoSQL">
+  <DataContextMoniker Name="/ClassDemoLINQtoSQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="26c271a1-c731-4e6b-956f-a8e1c6706458" absoluteBounds="0.5, 1.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ClassDemoLINQtoSQLDataContext/Vendor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="528f7686-0a89-4d9f-b832-5e9b8b70ed70" absoluteBounds="0.51500000000000012, 1.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="956f35e5-266f-4dd8-90f4-221229a05bb3" absoluteBounds="3.875, 2, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ClassDemoLINQtoSQLDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="498f2c16-68e3-4435-8d29-269404bdcee3" absoluteBounds="3.89, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 2.70274983723958); (3.875 : 2.70274983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ClassDemoLINQtoSQLDataContext/Vendor/Vendor_Invoice" />
+      <nodes>
+        <classShapeMoniker Id="26c271a1-c731-4e6b-956f-a8e1c6706458" />
+        <classShapeMoniker Id="956f35e5-266f-4dd8-90f4-221229a05bb3" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

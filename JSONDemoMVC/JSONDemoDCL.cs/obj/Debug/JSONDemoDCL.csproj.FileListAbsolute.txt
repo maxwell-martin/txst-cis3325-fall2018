@@ -1,0 +1,40 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.pdb
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.xml
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csprojAssemblyReference.cache
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CoreCompileInputs.cache
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CopyComplete
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.dll
+D:\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\JSONDemoDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\JSONDemoMVC\JSONDemoDCL.cs\obj\Debug\JSONDemoDCL.pdb

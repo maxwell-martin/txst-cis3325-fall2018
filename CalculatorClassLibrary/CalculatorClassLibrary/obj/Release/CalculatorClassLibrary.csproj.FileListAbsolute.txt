@@ -1,0 +1,5 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CalculatorClassLibrary\CalculatorClassLibrary\obj\Release\CalculatorClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CalculatorClassLibrary\CalculatorClassLibrary\obj\Release\CalculatorClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CalculatorClassLibrary\CalculatorClassLibrary\obj\Release\CalculatorClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CalculatorClassLibrary\CalculatorClassLibrary\CalculatorClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CalculatorClassLibrary\CalculatorClassLibrary\CalculatorClassLibrary.pdb

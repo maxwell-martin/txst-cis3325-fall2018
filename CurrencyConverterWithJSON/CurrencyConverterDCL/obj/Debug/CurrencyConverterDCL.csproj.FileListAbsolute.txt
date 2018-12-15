@@ -1,0 +1,20 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\CurrencyConverterDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\CurrencyConverterDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\CurrencyConverterDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\CurrencyConverterDCL.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\CurrencyConverterWithJSON\CurrencyConverterDCL\obj\Debug\CurrencyConverterDCL.pdb

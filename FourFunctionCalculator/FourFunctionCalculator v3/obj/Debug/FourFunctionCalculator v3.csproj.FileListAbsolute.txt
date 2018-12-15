@@ -1,0 +1,148 @@
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe.config
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.pdb
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.CalculatorForm3.resources
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.Properties.Resources.resources
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.GenerateResource.cache
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CoreCompileInputs.cache
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.exe
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.pdb
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csprojAssemblyReference.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe.config
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.CalculatorForm3.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.Properties.Resources.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.GenerateResource.Cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csprojResolveAssemblyReference.cache
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\netstandard.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.AppContext.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Collections.Concurrent.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Collections.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Collections.NonGeneric.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Collections.Specialized.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ComponentModel.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ComponentModel.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Console.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Data.Common.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.Contracts.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.Debug.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.Process.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.Tools.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Diagnostics.Tracing.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Drawing.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Dynamic.Runtime.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Globalization.Calendars.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Globalization.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Globalization.Extensions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.Compression.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.FileSystem.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.IsolatedStorage.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.Pipes.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Linq.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Linq.Expressions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Linq.Parallel.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Linq.Queryable.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Http.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.NameResolution.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.NetworkInformation.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Ping.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Requests.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Security.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.Sockets.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.WebSockets.Client.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Net.WebSockets.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ObjectModel.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Reflection.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Reflection.Extensions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Reflection.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Resources.Reader.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Resources.ResourceManager.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Resources.Writer.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Extensions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Handles.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.InteropServices.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Numerics.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Claims.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.Principal.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Security.SecureString.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Text.Encoding.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Text.RegularExpressions.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.Overlapped.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.Tasks.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.Thread.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.ThreadPool.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Threading.Timer.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.ValueTuple.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.ReaderWriter.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.XDocument.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.XmlDocument.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.XmlSerializer.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.XPath.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.dll
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.pdb
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.exe.config
+D:\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CopyComplete
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.dll
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe.config
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.CalculatorForm3.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.Properties.Resources.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.GenerateResource.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\ClassDemos\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe.config
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.CalculatorForm3.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator_v3.Properties.Resources.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.GenerateResource.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\obj\Debug\FourFunctionCalculator v3.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\Put on GitHub\FourFunctionCalculator\FourFunctionCalculator v3\bin\Debug\CalculatorClassLibrary.dll
