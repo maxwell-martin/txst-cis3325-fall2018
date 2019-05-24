@@ -1,8 +1,4 @@
-# TexasStateUniversity_FALL18
-
-This repository contains in-class projects from my programming class during the Fall 2018 semester.
-
-The projects should all run in Visual Studio.
+These are in-class projects that should all run in Visual Studio.
 
 My code is typically within the Form.cs and Class.cs files.
 
