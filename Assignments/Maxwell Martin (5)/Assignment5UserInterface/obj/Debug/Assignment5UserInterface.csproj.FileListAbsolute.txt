@@ -1,0 +1,10 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\bin\Debug\Assignment5UserInterface.exe.config
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\bin\Debug\Assignment5UserInterface.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\bin\Debug\Assignment5UserInterface.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.FrmIncidentsByCustomerByState.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.Properties.Resources.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.csproj.GenerateResource.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #5\Maxwell Martin (5)\Assignment5UserInterface\obj\Debug\Assignment5UserInterface.pdb

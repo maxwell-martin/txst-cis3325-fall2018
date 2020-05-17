@@ -1,0 +1,6 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.csprojAssemblyReference.cache

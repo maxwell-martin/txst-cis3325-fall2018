@@ -1,0 +1,40 @@
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe.config
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.pdb
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.ConverterUI.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.Properties.Resources.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.GenerateResource.Cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\MaxwellMartin-Assignment1\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.pdb
+D:\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe.config
+D:\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe
+D:\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.pdb
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csprojResolveAssemblyReference.cache
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.ConverterUI.resources
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.Properties.Resources.resources
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.GenerateResource.Cache
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.CoreCompileInputs.cache
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.exe
+D:\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.pdb
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe.config
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.pdb
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.ConverterUI.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.Properties.Resources.resources
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.GenerateResource.Cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Miscellaneous\Desktop\College Stuff\Courses\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe.config
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\bin\Debug\MaxwellMartin-Assignment1.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.ConverterUI.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin_Assignment1.Properties.Resources.resources
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.GenerateResource.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.exe
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #1\Maxwell Martin\MaxwellMartin-Assignment1\obj\Debug\MaxwellMartin-Assignment1.pdb

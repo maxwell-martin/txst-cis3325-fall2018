@@ -1,0 +1,9 @@
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\bin\Debug\Assignment4BusinessClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\bin\Debug\Assignment4BusinessClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.pdb
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\obj\Debug\Assignment4BusinessClassLibrary.csprojAssemblyReference.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\obj\Debug\Assignment4BusinessClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\obj\Debug\Assignment4BusinessClassLibrary.csproj.CopyComplete
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\obj\Debug\Assignment4BusinessClassLibrary.dll
+C:\Users\maxma\Desktop\College Stuff\Fall 2018\CIS 3325.002\Assignment #4\Maxwell Martin (4)\Assignment4BusinessClassLibrary\obj\Debug\Assignment4BusinessClassLibrary.pdb
